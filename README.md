@@ -1,4 +1,7 @@
 # Natural Language Processing with Disaster Tweets
+
+Explanatory video : https://share.vidyard.com/watch/XDsHMvALJToVQjCZtFEucF?
+
 Predict which Tweets are about real disasters and which ones are not
 
 Twitter has become an important communication channel in times of emergency.
